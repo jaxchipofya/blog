@@ -3,7 +3,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+//for now tests just echos a message
+    "test": "echo "Test run successfully",
   },
   "dependencies": {
     "date-fns": "^2.28.0",
